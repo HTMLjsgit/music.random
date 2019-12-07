@@ -45,7 +45,6 @@ btn.addEventListener('click', function(){
 		audio.play();
 		h3.textContent = 'Morning';
 	}
-	console.log(random)
 });
 
 btn2.addEventListener('click', function pause(){
